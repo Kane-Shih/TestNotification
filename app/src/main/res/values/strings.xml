@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestNotification</string>
+
+    <string name="notification_channel_name">Notification Channel</string>
+</resources>
